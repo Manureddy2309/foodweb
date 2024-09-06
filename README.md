@@ -1,1 +1,1 @@
-# foodweb
+Created a responsive food munch website using HTML, CSS, Bootstrap, and JavaScript. The website includes sections for menu exploration, delivery and payment options, and why choose us, with a user-friendly layout. Designed navigation for easy access to different sections like fresh food, best offers, and healthy meals. Integrated font-awesome icons for enhanced UI elements. Implemented custom buttons and image galleries for showcasing menu items. Ensured compatibility across different devices with Bootstrap's grid system and responsive images.
